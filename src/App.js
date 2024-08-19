@@ -17,7 +17,11 @@ import Weather from "./Weather";
             Tandiwe Beta
           </a>{" "}
           and is{" "}
-          <a href="#" target="_blank" rel="nonpener noreferrer">
+          <a
+            href="https://github.com/TandiweBeta/weather-react"
+            target="_blank"
+            rel="nonpener noreferrer"
+          >
             {" "}
             open sourced on Github
           </a>{" "}
