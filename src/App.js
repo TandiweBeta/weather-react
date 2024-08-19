@@ -24,11 +24,10 @@ import Weather from "./Weather";
           >
             {" "}
             open sourced on Github
-          </a>
-          {" "}
+          </a>{" "}
           and{" "}
           <a
-            href="https://app.netlify.com/sites/aquamarine-swan-234b32/deploys/66c3cbed7757ed42547fb798"
+            href="https://app.netlify.com/sites/funny-meerkat-1d0699/overview"
             target="_blank"
             rel="noopener noreferrer"
           >
