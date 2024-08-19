@@ -27,7 +27,7 @@ import Weather from "./Weather";
           </a>{" "}
           and{" "}
           <a
-            href="https://app.netlify.com/sites/funny-meerkat-1d0699/overview"
+            href="https://react-weather-app-tandi.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
